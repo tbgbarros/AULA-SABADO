@@ -49,5 +49,6 @@ Este projeto usa **spaCy** e **Sumy** para processar e resumir textos, **Goose3*
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/text-summarizer-wordcloud.git
-   cd text-summarizer-wordcloud
+   https://github.com/tbgbarros/AULA-SABADO.git
+   cd AULA-SABADO
+   MINI_PROJETO.PY
